@@ -1,4 +1,7 @@
 # echoAR-8thWall-Toss-Object
+
+#### A-Frame: Toss Object
+
 8th Wall's AR demo with echoAR. Tap the screen to toss tomatoes. When they hit the ground, they splat and make a sound. The shrink will splat away and be deleted in 5 sec.
 
 ## Register
@@ -26,8 +29,9 @@ Don't have an API key? Make sure to register for FREE at [echoAR](https://consol
 * Press `Save+Build` to build your 8th Wall project.
 * Press `Preview` and scan the QR code to run the project on your phone.
 
-## Demo
+## Screenshot
 
+<img src="https://github.com/VivianVKJ/echoAR-8thWall-Toss-Object/blob/main/demo.gif" height=20% width=20%>
 
 
 ## Learn more
