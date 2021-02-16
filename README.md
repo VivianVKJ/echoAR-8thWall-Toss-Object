@@ -2,7 +2,7 @@
 
 #### A-Frame: Toss Object
 
-8th Wall's AR demo with echoAR. Tap the screen to toss tomatoes. When they hit the ground, they splat and make a sound. The shrink will splat away and be deleted in 5 sec.
+8th Wall's AR demo with echoAR. Tap the screen to toss astronauts. When they hit the ground, they splat and make a sound. The shrink will splat away and be deleted in 5 sec.
 
 ## Register
 
